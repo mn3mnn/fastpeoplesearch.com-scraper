@@ -1,5 +1,5 @@
-# fastpeoplesearch.com-scrapper
-python script to search for people on fastpeoplesearch.com using selenium webdriver and extract the results into an excel sheet.
+# fastpeoplesearch.com-scraper
+python script to search for people (given their names and addresses) on fastpeoplesearch.com using selenium webdriver and extract the results into an excel sheet.
 
 - NOTES
   - **fastpeoplesearch.com works only in the US, so you will need a VPN if you're outside the US.**
